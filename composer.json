@@ -1,0 +1,10 @@
+{
+    "name": "eltortuganegra/ddd-in-php",
+    "authors": [
+        {
+            "name": "eltortuganegra",
+            "email": "jorge.sanchez@eltortuganegra.com"
+        }
+    ],
+    "require": {}
+}
